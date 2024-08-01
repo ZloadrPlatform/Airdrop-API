@@ -1,7 +1,7 @@
 # Airdrop API Documentation
 
 ## Overview
-The Airdrop API provides access to a list of all available airdrops. Users can retrieve data about these airdrops by making a GET request to the specified endpoint. The API requires an API key for authentication.
+The Airdrop API provides access to a list of all available airdrops. Users can retrieve data about these airdrops by making a GET request to the specified endpoint. The API requires an API key for authentication. You can get an API key from Zloadr at https://zloadr.com
 
 ## Endpoint
 
